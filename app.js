@@ -16,8 +16,13 @@ app.use(express.static("public"));
 //TODO
 app.get("/", function (req, res) {
     res.render("heatmap");
+    
 });
+app.get("/maps", function (req, res) {
+    res.render("CityMap");
 
+});
+    
 app.listen(3000, function () {
     console.log("Server started on port 3000");
 });
