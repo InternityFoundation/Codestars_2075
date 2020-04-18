@@ -1,0 +1,453 @@
+{
+    "India": [{
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Colaba",
+            "Ward": "A",
+            "Population": 210847,
+            "Density per square kilometer": 16868,
+            "Senior citizen %": 0.14,
+            "Area": 12.5,
+            "Educational institutes": 54,
+            "Hospitals": 40,
+            "Supermarts": {
+                "malls": 20
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Sanhurst Road",
+            "Ward": "B",
+            "Population": 140633,
+            "Density per square kilometer": 56936,
+            "Senior citizen %": 0.14,
+            "Area": 2.47,
+            "Educational institutes": 48,
+            "Hospitals": 32,
+            "Supermarts": {
+                "malls": 32
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Marine Lines",
+            "Ward": "C",
+            "Population": 202922,
+            "Density per square kilometer": 114001,
+            "Senior citizen %": 0.14,
+            "Area": 1.78,
+            "Educational institutes": 43,
+            "Hospitals": 23,
+            "Supermarts": {
+                "malls": 21
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Grant Road",
+            "Ward": "D",
+            "Population": 382841,
+            "Density per square kilometer": 57744,
+            "Senior citizen %": 0.14,
+            "Area": 6.63,
+            "Educational institutes": 23,
+            "Hospitals": 43,
+            "Supermarts": {
+                "malls": 21
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Byculla",
+            "Ward": "E",
+            "Population": 440335,
+            "Density per square kilometer": 59505,
+            "Senior citizen %": 0.14,
+            "Area": 7.4,
+            "Educational institutes": 32,
+            "Hospitals": 57,
+            "Supermarts": {
+                "malls": 12
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Parel",
+            "Ward": "F/S",
+            "Population": 396122,
+            "Density per square kilometer": 28294,
+            "Senior citizen %": 0.14,
+            "Area": 14,
+            "Educational institutes": 42,
+            "Hospitals": 43,
+            "Supermarts": {
+                "malls": 21
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Matunga",
+            "Ward": "F/N",
+            "Population": 524393,
+            "Density per square kilometer": 40400,
+            "Senior citizen %": 0.14,
+            "Area": 12.98,
+            "Educational institutes": 53,
+            "Hospitals": 32,
+            "Supermarts": {
+                "malls": 23
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Elphinstone",
+            "Ward": "G/S",
+            "Population": 457931,
+            "Density per square kilometer": 45793,
+            "Senior citizen %": 0.14,
+            "Area": 10,
+            "Educational institutes": 54,
+            "Hospitals": 21,
+            "Supermarts": {
+                "malls": 21
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Dadar/Plaza",
+            "Ward": "G/N",
+            "Population": 582007,
+            "Density per square kilometer": 64168,
+            "Senior citizen %": 0.14,
+            "Area": 9.07,
+            "Educational institutes": 33,
+            "Hospitals": 33,
+            "Supermarts": {
+                "malls": 23
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Khar/Santacruz",
+            "Ward": "H/E",
+            "Population": 580835,
+            "Density per square kilometer": 42929,
+            "Senior citizen %": 0.14,
+            "Area": 13.53,
+            "Educational institutes": 54,
+            "Hospitals": 23,
+            "Supermarts": {
+                "malls": 32
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Bandra",
+            "Ward": "H/W",
+            "Population": 337391,
+            "Density per square kilometer": 29211,
+            "Senior citizen %": 0.14,
+            "Area": 11.55,
+            "Educational institutes": 65,
+            "Hospitals": 42,
+            "Supermarts": {
+                "malls": 25
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Andheri (East)",
+            "Ward": "K/E",
+            "Population": 810002,
+            "Density per square kilometer": 32688,
+            "Senior citizen %": 0.14,
+            "Area": 24.78,
+            "Educational institutes": 45,
+            "Hospitals": 24,
+            "Supermarts": {
+                "malls": 26
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Andheri (West)",
+            "Ward": "K/W",
+            "Population": 700680,
+            "Density per square kilometer": 29956,
+            "Senior citizen %": 0.14,
+            "Area": 23.39,
+            "Educational institutes": 34,
+            "Hospitals": 23,
+            "Supermarts": {
+                "malls": 26
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Kurla",
+            "Ward": "L",
+            "Population": 778218,
+            "Density per square kilometer": 49006,
+            "Senior citizen %": 0.14,
+            "Area": 15.88,
+            "Educational institutes": 32,
+            "Hospitals": 23,
+            "Supermarts": {
+                "malls": 28
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Chembur East",
+            "Ward": "M/E",
+            "Population": 674850,
+            "Density per square kilometer": 20765,
+            "Senior citizen %": 0.14,
+            "Area": 32.5,
+            "Educational institutes": 23,
+            "Hospitals": 23,
+            "Supermarts": {
+                "malls": 29
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Chembur West",
+            "Ward": "M/W",
+            "Population": 414040,
+            "Density per square kilometer": 21233,
+            "Senior citizen %": 0.14,
+            "Area": 19.5,
+            "Educational institutes": 65,
+            "Hospitals": 43,
+            "Supermarts": {
+                "malls": 24
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Ghatkopar",
+            "Ward": "N",
+            "Population": 619556,
+            "Density per square kilometer": 23866,
+            "Senior citizen %": 0.14,
+            "Area": 25.96,
+            "Educational institutes": 45,
+            "Hospitals": 34,
+            "Supermarts": {
+                "malls": 24
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Goregaon",
+            "Ward": "P/S",
+            "Population": 437849,
+            "Density per square kilometer": 17915,
+            "Senior citizen %": 0.14,
+            "Area": 24.44,
+            "Educational institutes": 54,
+            "Hospitals": 53,
+            "Supermarts": {
+                "malls": 26
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Malad",
+            "Ward": "P/N",
+            "Population": 796775,
+            "Density per square kilometer": 41651,
+            "Senior citizen %": 0.14,
+            "Area": 19.13,
+            "Educational institutes": 65,
+            "Hospitals": 54,
+            "Supermarts": {
+                "malls": 26
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Kandivalli",
+            "Ward": "R/S",
+            "Population": 589886,
+            "Density per square kilometer": 33177,
+            "Senior citizen %": 0.14,
+            "Area": 17.78,
+            "Educational institutes": 77,
+            "Hospitals": 34,
+            "Supermarts": {
+                "malls": 27
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Borivali West",
+            "Ward": "R/C",
+            "Population": 513077,
+            "Density per square kilometer": 10262,
+            "Senior citizen %": 0.14,
+            "Area": 50,
+            "Educational institutes": 45,
+            "Hospitals": 45,
+            "Supermarts": {
+                "malls": 27
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Dahiser",
+            "Ward": "R/N",
+            "Population": 363827,
+            "Density per square kilometer": 20213,
+            "Senior citizen %": 0.14,
+            "Area": 18,
+            "Educational institutes": 75,
+            "Hospitals": 34,
+            "Supermarts": {
+                "malls": 25
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Bhandup",
+            "Ward": "S",
+            "Population": 691227,
+            "Density per square kilometer": 10800,
+            "Senior citizen %": 0.14,
+            "Area": 64,
+            "Educational institutes": 56,
+            "Hospitals": 34,
+            "Supermarts": {
+                "malls": 24
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Mulund",
+            "Ward": "T",
+            "Population": 330195,
+            "Density per square kilometer": 7270,
+            "Senior citizen %": 0.14,
+            "Area": 45.42,
+            "Educational institutes": 67,
+            "Hospitals": 34,
+            "Supermarts": {
+                "malls": 24
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        },
+        {
+            "State": "Maharashtra",
+            "City": "Mumbai",
+            "Ward location": "Total",
+            "Ward": "Total",
+            "Population": 11976439,
+            "Density per square kilometer": 24811.94716,
+            "Senior citizen %": 0.14,
+            "Area": 482.69,
+            "Educational institutes": 1184,
+            "Hospitals": 847,
+            "Supermarts": {
+                "malls": 587
+            },
+            "Critical congestion points": 0,
+            "Commercial complexes": 0,
+            "Residential areas": 0
+        }
+    ]
+}
